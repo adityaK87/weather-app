@@ -1,0 +1,17 @@
+
+ .container{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(119, 151, 221);
+    border: 1px solid #2d2d2d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    flex-direction:column;
+  }
+  .inputField{
+      border-radius:8px ;
+      background:none ;
+      padding: 8px 13px;
+  }
